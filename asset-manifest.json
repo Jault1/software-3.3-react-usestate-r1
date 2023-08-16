@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/software-3.3-react-usestate/static/css/main.455853ff.css",
+    "main.js": "/software-3.3-react-usestate/static/js/main.1eb1f83b.js",
+    "index.html": "/software-3.3-react-usestate/index.html",
+    "main.455853ff.css.map": "/software-3.3-react-usestate/static/css/main.455853ff.css.map",
+    "main.1eb1f83b.js.map": "/software-3.3-react-usestate/static/js/main.1eb1f83b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.455853ff.css",
+    "static/js/main.1eb1f83b.js"
+  ]
+}
